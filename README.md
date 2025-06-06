@@ -1,7 +1,7 @@
 Pokeducatif
 
 
-Développé par Alex Dupuis--Lepez et Corentin Chocraux\n
+Développé par Alex Dupuis--Lepez et Corentin Chocraux
 Contacts :  alex.dupuis-lepez.etu@univ-lille.fr et corentin.chocraux.etu@univ-lille.fr
 
 # Présentation de Pokeducatif
